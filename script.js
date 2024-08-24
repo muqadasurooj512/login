@@ -1,0 +1,13 @@
+var x;
+x = 5;
+x= 4;
+x=x+x;
+console.log(x);
+let y;
+y=10;
+y=y+y;
+console.log(y);
+const z=15;
+console.log(z);
+console.log(x+y+z);
+console.log(x*y*z);
